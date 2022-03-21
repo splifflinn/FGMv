@@ -1,7 +1,6 @@
 # FGMv
--
-# New & Improved, FGM Dashboard (Invite Only)
-
+- (Invite Only)
+# New & Improved, FGM Dashboard 
 
 # Enjoy!
 
